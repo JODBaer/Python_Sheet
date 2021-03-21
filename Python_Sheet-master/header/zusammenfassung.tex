@@ -1,0 +1,30 @@
+\input{header/header}
+\input{header/listings}
+
+% Seitenränder
+\usepackage[left=1cm,right=1cm,top=0.5cm,bottom=0.5cm,includeheadfoot]{geometry}
+
+\usepackage[table]{xcolor}
+\usepackage{hyperref}
+\usepackage{longtable}
+\usepackage{multirow} % Create tabular cells spanning multiple rows
+\usepackage{multicol} % In­ter­mix sin­gle and mul­ti­ple columns
+\usepackage{rotating} % Rotation tools, including rotated fullpage floats
+\usepackage{enumitem}
+\usepackage{graphicx}
+\usepackage{graphbox} % Align Images
+\usepackage{bold-extra} % for usage of both \textbf and \texttt on one word
+\usepackage[export]{adjustbox}	% Align Images 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Layout der Kopf und Fusszeile %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage[headsepline,footsepline]{scrlayer-scrpage}
+\pagestyle{scrheadings}
+
+\ohead{\pagemark}
+\chead{FS21}
+\ihead{Python Sheet}
+
+\ofoot{\today}
+\ifoot{F.Baumgartner, B.Bucheli}
