@@ -1,29 +1,28 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.3.16)  21 MAR 2021 17:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.3.18)  28 MAR 2021 21:10
 entering extended mode
 **./Python_Sheet.tex
 (Python_Sheet.tex
 LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-02-18> xparse <2020-03-03>
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scrartc
-l.cls
+L3 programming layer <2021-02-18>
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrartcl.cl
+s
 Document Class: scrartcl 2020/09/21 v3.32 KOMA-Script document class (article)
 
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scrkbas
-e.sty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrkbase.st
+y
 Package: scrkbase 2020/09/21 v3.32 KOMA-Script package (KOMA-Script-dependent b
 asics and keyval usage)
 
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scrbase
-.sty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrbase.sty
 Package: scrbase 2020/09/21 v3.32 KOMA-Script package (KOMA-Script-independent 
 basics and keyval usage)
 
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scrlfil
-e.sty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile.st
+y
 Package: scrlfile 2020/09/21 v3.32 KOMA-Script package (file load hooks)
 
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scrlfil
-e-hook.sty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlfile-ho
+ok.sty
 Package: scrlfile-hook 2020/09/21 v3.32 KOMA-Script package (using LaTeX hooks)
 
 
@@ -105,16 +104,14 @@ LaTeX3 Info: Defining command \protected@immediate@write with sig. 'm+m+m' on
 (LaTeX3)     line 298.
 
 
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scrlogo
-.sty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlogo.sty
 Package: scrlogo 2020/09/21 v3.32 KOMA-Script package (logo)
-)))
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty
+))) (C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks15
 )))
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\tocbasi
-c.sty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\tocbasic.st
+y
 Package: tocbasic 2020/09/21 v3.32 KOMA-Script package (handling toc-files)
 \scr@dte@tocline@numberwidth=\skip47
 \scr@dte@tocline@numbox=\box47
@@ -127,8 +124,7 @@ Package scrartcl Info: You've used standard option `10pt'.
 (scrartcl)             If you'd like to set the option with \KOMAoptions,
 (scrartcl)             you'd have to use `fontsize=10pt' there
 (scrartcl)             instead of `10pt', too.
-
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fleqn.clo
+ (C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/base\fleqn.clo
 File: fleqn.clo 2016/12/29 v1.2b Standard LaTeX option (flush left equations)
 \mathindent=\skip48
 Applying: [2015/01/01] Make \[ robust on input line 50.
@@ -141,13 +137,13 @@ Already applied: [0000/00/00] Make \] robust on input line 83.
 Class scrartcl Info: File `scrsize10pt.clo' used to setup font sizes on input l
 ine 2222.
 
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scrsize
-10pt.clo
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrsize10pt
+.clo
 File: scrsize10pt.clo 2020/09/21 v3.32 KOMA-Script font size class option (10pt
 )
 )
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\typeare
-a.sty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\typearea.st
+y
 Package: typearea 2020/09/21 v3.32 KOMA-Script package (type area)
 \ta@bcor=\skip49
 \ta@div=\count179
@@ -233,22 +229,21 @@ Class scrartcl Info: Redefining `\numberline' on input line 6252.
 \openout2 = `header/zusammenfassung.aux'.
 
 (header/zusammenfassung.tex (header/header.tex
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.sty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2020/08/01 v1.3d Input encoding file
 \inpenc@prehook=\toks16
 \inpenc@posthook=\toks17
 )
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.sty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
 Package: babel 2021/03/03 3.55 The Babel package
 
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
 File: babel.def 2021/03/03 3.55 Babel common definitions
 \babel@savecnt=\count188
 \U@D=\dimen139
-\l@babelnohyphens=\language81
+\l@babelnohyphens=\language79
 
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.de
-f)
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
 )
 \bbl@dirlevel=\count189
@@ -256,37 +251,35 @@ f)
 *************************************
 * Local config file bblopts.cfg used
 *
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
 File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
  babel
 )
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-english\engli
-sh.ldf
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.l
+df
 Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: \l@canadian = using hyphenrules for english
 (babel)             (\language0) on input line 102.
 Package babel Info: \l@australian = using hyphenrules for ukenglish
-(babel)             (\language75) on input line 105.
+(babel)             (\language73) on input line 105.
 Package babel Info: \l@newzealand = using hyphenrules for ukenglish
-(babel)             (\language75) on input line 108.
+(babel)             (\language73) on input line 108.
 )
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-german\ngerma
-n.ldf
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\ngerman.ld
+f
 Language: ngerman 2021/02/27 v2.13 German support for babel (post-1996 orthogra
 phy)
 
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-german\ngerma
-nb.ldf
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\ngermanb.l
+df
 Language: ngermanb 2021/02/27 v2.13 German support for babel (post-1996 orthogr
 aphy)
 Package babel Info: Making " an active character on input line 122.
 )))
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/latex-tools\tabular
-x.sty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\tabularx.st
+y
 Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
-
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/latex-tools\array.s
-ty
+ (C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\array.sty
 Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
 \col@sep=\dimen140
 \ar@mcellbox=\box49
@@ -303,12 +296,10 @@ Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
 \TX@delta=\dimen146
 \TX@cols=\count190
 \TX@ftn=\toks19
-)
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption.sty
+) (C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
 Package: caption 2020/10/26 v3.5g Customizing captions (AR)
 
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption3.st
-y
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
 Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
 \captionmargin=\dimen147
 \captionmargin@=\dimen148
@@ -319,35 +310,31 @@ Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
 \caption@hangindent=\dimen153
 Package caption Info: KOMA-Script document class detected.
 
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption-kom
-a.sto
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption-koma.st
+o
 File: caption-koma.sto 2020/09/21 v2.0b Adaption of the caption package to the 
 KOMA-Script document classes (AR)
 ))
 \c@caption@flags=\count191
 \c@continuedfloat=\count192
 ))
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\subcaption.
-sty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
 Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
 \c@subfigure=\count193
 \c@subtable=\count194
 ) (header/listings.tex
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color.sty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
 Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
 
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color.
-cfg
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdftex
-.def
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.s
-ty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
 \lst@mode=\count195
 \lst@gtempboxa=\box51
 \lst@token=\toks20
@@ -361,39 +348,32 @@ ty
 \lst@lineno=\count266
 \lst@maxwidth=\dimen157
 
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmisc.st
-y
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 \c@lstnumber=\count267
 \lst@skipnumbers=\count268
 \lst@framebox=\box52
 )
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.c
-fg
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
 File: listings.cfg 2020/03/24 1.8d listings configuration
 ))
 Package: listings 2020/03/24 1.8d (Carsten Heinz)
-
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlang1.s
-ty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlang1.s
-ty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
 )
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmisc.st
-y
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
 ))
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.s
-ty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifvtex.sty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 ))
 \Gm@cnth=\count269
@@ -409,19 +389,15 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 \Gm@layoutvoffset=\dimen165
 \Gm@dimlist=\toks21
 
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.c
-fg))
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color.
-cfg
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
-
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/colortbl\colortbl.s
-ty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
 Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
 \everycr=\toks22
 \minrowclearance=\skip66
@@ -437,79 +413,70 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-)
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperref.s
-ty
+) (C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2021-02-27 v7.00k Hypertext links for LaTeX
 
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ltxcmds\ltxcmds.s
-ty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
 )
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pdftexcmds\pdftex
-cmds.sty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/generic/infwarerr\infware
-rr.sty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvsetkeys\kvsetke
-ys.sty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.s
+ty
 Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 )
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/generic/kvdefinekeys\kvde
-finekeys.sty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/generic/pdfescape\pdfesca
-pe.sty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-)
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hycolor\hycolor.sty
+) (C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/letltxmacro\letltxm
-acro.sty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
+.sty
 Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 )
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/auxhook\auxhook.sty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/kvoptions\kvoptions
-.sty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
 \@linkdim=\dimen166
 \Hy@linkcounter=\count273
 \Hy@pagecounter=\count274
-
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1enc.def
+ (C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2021-02-27 v7.00k Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperref-l
-angpatches.def
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref-langp
+atches.def
 File: hyperref-langpatches.def 2021-02-27 v7.00k Hyperref: patches for babel la
 nguages
 )
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/generic/intcalc\intcalc.s
-ty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/generic/etexcmds\etexcmds
-.sty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count275
-
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\puenc.def
+ (C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2021-02-27 v7.00k Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
@@ -522,18 +489,19 @@ Package hyperref Info: Backreferencing OFF on input line 4212.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4445.
 \c@Hy@tempcnt=\count276
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty
+
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 4804.
 \XeTeXLinkMargin=\dimen167
 
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/generic/bitset\bitset.sty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/generic/bigintcalc\bigint
-calc.sty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
@@ -550,8 +518,7 @@ Package hyperref Info: PDF/A mode OFF on input line 6105.
 LaTeX Info: Redefining \ref on input line 6145.
 LaTeX Info: Redefining \pageref on input line 6149.
 
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\atbegshi-ltx.s
-ty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
 Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
 ge
 with kernel methods
@@ -561,13 +528,10 @@ with kernel methods
 \c@Hfootnote=\count280
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
-
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpdftex.de
-f
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
 File: hpdftex.def 2021-02-27 v7.00k Hyperref driver for pdfTeX
 
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\atveryend-ltx.
-sty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
 e
 with kernel methods
@@ -575,12 +539,12 @@ with kernel methods
 \Fld@listcount=\count281
 \c@bookmark@seq@number=\count282
 
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/rerunfilecheck\reru
-nfilecheck.sty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
 Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
 
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/generic/uniquecounter\uni
-quecounter.sty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
@@ -588,8 +552,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip67
 )
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/latex-tools\longtab
-le.sty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\longtable.s
+ty
 Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
 \LTleft=\skip68
 \LTright=\skip69
@@ -609,16 +573,15 @@ Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
 )
 Class scrartcl Info: longtable captions redefined on input line 10.
 
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\multirow.s
-ty
-Package: multirow 2021/01/29 v2.7 Span multiple rows of a table
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
 \multirow@colwidth=\skip72
 \multirow@cntb=\count288
 \multirow@dima=\skip73
 \bigstrutjot=\dimen171
 )
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/latex-tools\multico
-l.sty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\multicol.st
+y
 Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
 \c@tracingmulticols=\count289
 \mult@box=\box57
@@ -688,31 +651,27 @@ Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
 \colbreak@box=\box102
 \mc@col@check@num=\count298
 )
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\rotating.s
-ty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/graphics\rotating.sty
 Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
 
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.s
-ty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.s
-ty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
 Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
 
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphi
-cs.cfg
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 105.
 )
 \Gin@req@height=\dimen181
 \Gin@req@width=\dimen182
-)
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty
+) (C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 \c@r@tfl@t=\count299
@@ -720,9 +679,7 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 \rotFPbot=\skip77
 \rot@float@box=\box103
 \rot@mess@toks=\toks24
-)
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/enumitem\enumitem.s
-ty
+) (C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
 \labelindent=\skip78
 \enit@outerparindent=\dimen183
@@ -730,9 +687,7 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@inbox=\box104
 \enit@count@id=\count300
 \enitdp@description=\count301
-)
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphbox\graphbox.s
-ty
+) (C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/graphbox\graphbox.sty
 Package: graphbox 2018/01/17 v1.1 extension for graphicx to adjust containing b
 ox
 \Gin@box@box=\box105
@@ -743,38 +698,32 @@ ox
 \Gin@box@bwidth=\skip83
 \Gin@box@bheight=\skip84
 )
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/bold-extra\bold-ext
-ra.sty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/bold-extra\bold-extra.s
+ty
 Package: bold-extra 2001/11/13 v0.1 Use fonts from cm/mf-extra/bold
 )
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/adjustbox\adjustbox
-.sty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
 Package: adjustbox 2020/08/19 v1.3 Adjusting TeX boxes (trim, clip, ...)
-
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xkeyval\xkeyval.sty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
 Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
 
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkeyval.t
-ex
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/generic/xkeyval\xkvutils.
-tex
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
 \XKV@toks=\toks26
 \XKV@tempa@toks=\toks27
 )
 \XKV@depth=\count302
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/adjustbox\adjcalc.s
-ty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
 Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
 -ends (calc, etex, pgfmath)
 )
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/adjustbox\trimclip.
-sty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.sty
 Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
 
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/collectbox\collectb
-ox.sty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.s
+ty
 Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
 \collectedbox=\box106
 )
@@ -784,8 +733,7 @@ Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
 \tc@ury=\dimen187
 Package trimclip Info: Using driver 'tc-pdftex.def'.
 
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/adjustbox\tc-pdftex
-.def
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
 File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
 ))
 \adjbox@Width=\dimen188
@@ -797,26 +745,23 @@ File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
 \adjbox@pdepth=\dimen194
 \adjbox@ptotalheight=\dimen195
 
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/ifoddpage\ifoddpage
-.sty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
 Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
 \c@checkoddpage=\count303
-)
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/varwidth\varwidth.s
-ty
+) (C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box107
 \sift@deathcycles=\count304
 \@vwid@loff=\dimen196
 \@vwid@roff=\dimen197
 ))
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scrlaye
-r-scrpage.sty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlayer-sc
+rpage.sty
 Package: scrlayer-scrpage 2020/09/21 v3.32 KOMA-Script package (end user interf
 ace for scrlayer)
 
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/koma-script\scrlaye
-r.sty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrlayer.st
+y
 Package: scrlayer 2020/09/21 v3.32 KOMA-Script package (defining layers and pag
 e styles)
 Package scrlayer Info: Using already defined \footheight
@@ -832,8 +777,8 @@ Package scrlayer-scrpage Info: deactivating warning for font element
 )
 Package scrlayer-scrpage Info: auto-selection of `pagestyleset=KOMA-Script'.
 )
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backend
--pdftex.def
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
 File: l3backend-pdftex.def 2021-03-02 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count305
 \l__pdf_internal_box=\box108
@@ -868,15 +813,14 @@ Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: longtable package is loaded.
 
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\ltcaption.s
-ty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/caption\ltcaption.sty
 Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
 )
 Package caption Info: rotating package is loaded.
 Package caption Info: End \AtBeginDocument code.
 
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pd
-f.mkii
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count306
 \scratchdimen=\dimen198
@@ -890,12 +834,16 @@ f.mkii
 \makeMPintoPDFobject=\count311
 \everyMPtoPDFconversion=\toks29
 )
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstop
-df-base.sty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
-)
+
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/17 v1.0 Configuration of epstopdf for MiKTeX
+))
 \c@lstlisting=\count312
 
 *geometry* driver: auto-detecting
@@ -933,17 +881,14 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring OFF on input line 14.
-
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.st
-y
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/refcount\refcount.s
-ty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/generic/gettitlestring\ge
-ttitlestring.sty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count313
@@ -964,39 +909,55 @@ Class scrartcl Info: loading recommended package `bookmark'.
 (scrartcl)             \usepackage{bookmark}
 (scrartcl)           before \begin{document} on input line 14.
 
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/bookmark\bookmark.s
-ty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bookmark.sty
 Package: bookmark 2020-11-06 v1.29 PDF bookmarks (HO)
 
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/bookmark\bkm-pdftex
-.def
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/bookmark\bkm-pdftex.def
 File: bkm-pdftex.def 2020-11-06 v1.29 bookmark driver for pdfTeX (HO)
 \BKM@id=\count314
 ))
-(C:\Users\benja\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlang1.s
-ty
+(C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2020/03/24 1.8d listings language file
-) (sections/Datentypen.tex
+)
+(sections/Datentypen.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 6.
+(Font)              <7> on input line 8.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 6.
+(Font)              <5> on input line 8.
 
-Overfull \hbox (84.0528pt too wide) in paragraph at lines 33--39
+Overfull \hbox (84.0528pt too wide) in paragraph at lines 35--41
 [] 
  []
 
 <pics/Variablen.PNG, id=3, 6499.28125pt x 4146.49126pt>
 File: pics/Variablen.PNG Graphic file (type png)
 <use pics/Variablen.PNG>
-Package pdftex.def Info: pics/Variablen.PNG  used on input line 40.
+Package pdftex.def Info: pics/Variablen.PNG  used on input line 42.
 (pdftex.def)             Requested size: 200.62277pt x 128.0374pt.
 
-Overfull \hbox (115.26451pt too wide) in paragraph at lines 40--41
+Overfull \hbox (115.26451pt too wide) in paragraph at lines 42--43
 [] 
  []
 
-(code/Strings.py
+(code/Streams.py
+
+Package xcolor Warning: Incompatible color definition on input line 1.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1.
+
 
 Package xcolor Warning: Incompatible color definition on input line 1.
 
@@ -1035,6 +996,308 @@ Package xcolor Warning: Incompatible color definition on input line 3.
 
 
 Package xcolor Warning: Incompatible color definition on input line 3.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3.
+
+
+Package xcolor Warning: Incompatible color definition on input line 4.
+
+
+Package xcolor Warning: Incompatible color definition on input line 4.
+
+
+Package xcolor Warning: Incompatible color definition on input line 5.
+
+
+Package xcolor Warning: Incompatible color definition on input line 5.
+
+
+Package xcolor Warning: Incompatible color definition on input line 5.
+
+
+Package xcolor Warning: Incompatible color definition on input line 5.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 7.
+
+
+Package xcolor Warning: Incompatible color definition on input line 7.
+
+
+Package xcolor Warning: Incompatible color definition on input line 7.
+
+
+Package xcolor Warning: Incompatible color definition on input line 7.
+
+
+Package xcolor Warning: Incompatible color definition on input line 7.
+
+
+Package xcolor Warning: Incompatible color definition on input line 7.
+
+
+Package xcolor Warning: Incompatible color definition on input line 7.
+
+
+Package xcolor Warning: Incompatible color definition on input line 7.
+
+
+Package xcolor Warning: Incompatible color definition on input line 7.
+
+
+Package xcolor Warning: Incompatible color definition on input line 8.
+
+
+Package xcolor Warning: Incompatible color definition on input line 8.
+
+
+Package xcolor Warning: Incompatible color definition on input line 8.
+
+
+Package xcolor Warning: Incompatible color definition on input line 8.
+
+
+Package xcolor Warning: Incompatible color definition on input line 8.
+
+
+Package xcolor Warning: Incompatible color definition on input line 8.
+
+
+Package xcolor Warning: Incompatible color definition on input line 8.
+
+
+Package xcolor Warning: Incompatible color definition on input line 8.
+
+)
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 6
+6.
+ (C:\Users\benja\AppData\Local\Programs\MiKTeX\tex/latex/base\omscmr.fd
+File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 66.
+
+Overfull \hbox (114.56746pt too wide) in paragraph at lines 62--71
+[][] 
+ []
+
+) (sections/Listen.tex (code/Listen.py
+
+Package xcolor Warning: Incompatible color definition on input line 1.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1.
+
+
+Package xcolor Warning: Incompatible color definition on input line 1.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2.
+
+
+Package xcolor Warning: Incompatible color definition on input line 2.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3.
+
+
+Package xcolor Warning: Incompatible color definition on input line 3.
+
+
+Package xcolor Warning: Incompatible color definition on input line 4.
+
+
+Package xcolor Warning: Incompatible color definition on input line 4.
+
+
+Package xcolor Warning: Incompatible color definition on input line 4.
+
+
+Package xcolor Warning: Incompatible color definition on input line 4.
+
+
+Package xcolor Warning: Incompatible color definition on input line 4.
+
+
+Package xcolor Warning: Incompatible color definition on input line 4.
+
+
+Package xcolor Warning: Incompatible color definition on input line 4.
+
+
+Package xcolor Warning: Incompatible color definition on input line 4.
+
+
+Package xcolor Warning: Incompatible color definition on input line 4.
+
+
+Package xcolor Warning: Incompatible color definition on input line 4.
+
+
+Package xcolor Warning: Incompatible color definition on input line 4.
+
+
+Package xcolor Warning: Incompatible color definition on input line 4.
+
+
+Package xcolor Warning: Incompatible color definition on input line 4.
+
+
+Package xcolor Warning: Incompatible color definition on input line 4.
+
+
+Package xcolor Warning: Incompatible color definition on input line 4.
+
+
+Package xcolor Warning: Incompatible color definition on input line 5.
+
+
+Package xcolor Warning: Incompatible color definition on input line 5.
+
+
+Package xcolor Warning: Incompatible color definition on input line 5.
+
+
+Package xcolor Warning: Incompatible color definition on input line 5.
+
+
+Package xcolor Warning: Incompatible color definition on input line 5.
+
+
+Package xcolor Warning: Incompatible color definition on input line 5.
+
+
+Package xcolor Warning: Incompatible color definition on input line 5.
+
+
+Package xcolor Warning: Incompatible color definition on input line 5.
+
+
+Package xcolor Warning: Incompatible color definition on input line 5.
+
+
+Package xcolor Warning: Incompatible color definition on input line 5.
 
 
 Package xcolor Warning: Incompatible color definition on input line 5.
@@ -1091,7 +1354,79 @@ Package xcolor Warning: Incompatible color definition on input line 5.
 Package xcolor Warning: Incompatible color definition on input line 6.
 
 
-Package xcolor Warning: Incompatible color definition on input line 7.
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
 
 
 Package xcolor Warning: Incompatible color definition on input line 7.
@@ -1137,6 +1472,75 @@ Package xcolor Warning: Incompatible color definition on input line 7.
 
 
 Package xcolor Warning: Incompatible color definition on input line 7.
+
+
+Package xcolor Warning: Incompatible color definition on input line 7.
+
+
+Package xcolor Warning: Incompatible color definition on input line 7.
+
+
+Package xcolor Warning: Incompatible color definition on input line 7.
+
+
+Package xcolor Warning: Incompatible color definition on input line 7.
+
+
+Package xcolor Warning: Incompatible color definition on input line 7.
+
+
+Package xcolor Warning: Incompatible color definition on input line 7.
+
+
+Package xcolor Warning: Incompatible color definition on input line 7.
+
+
+Package xcolor Warning: Incompatible color definition on input line 7.
+
+
+Package xcolor Warning: Incompatible color definition on input line 7.
+
+
+Package xcolor Warning: Incompatible color definition on input line 7.
+
+
+Package xcolor Warning: Incompatible color definition on input line 8.
+
+
+Package xcolor Warning: Incompatible color definition on input line 8.
+
+
+Package xcolor Warning: Incompatible color definition on input line 8.
+
+
+Package xcolor Warning: Incompatible color definition on input line 8.
+
+
+Package xcolor Warning: Incompatible color definition on input line 8.
+
+
+Package xcolor Warning: Incompatible color definition on input line 8.
+
+
+Package xcolor Warning: Incompatible color definition on input line 8.
+
+
+Package xcolor Warning: Incompatible color definition on input line 8.
+
+
+Package xcolor Warning: Incompatible color definition on input line 8.
+
+
+Package xcolor Warning: Incompatible color definition on input line 8.
+
+
+Package xcolor Warning: Incompatible color definition on input line 8.
+
+
+Package xcolor Warning: Incompatible color definition on input line 8.
+
+
+Package xcolor Warning: Incompatible color definition on input line 8.
 
 
 Package xcolor Warning: Incompatible color definition on input line 8.
@@ -1201,21 +1605,109 @@ Package xcolor Warning: Incompatible color definition on input line 9.
 
 Package xcolor Warning: Incompatible color definition on input line 9.
 
-)) [1{C:/Users/benja/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}
+
+Package xcolor Warning: Incompatible color definition on input line 9.
+
+
+Package xcolor Warning: Incompatible color definition on input line 9.
+
+
+Package xcolor Warning: Incompatible color definition on input line 9.
+
+
+Package xcolor Warning: Incompatible color definition on input line 9.
+
+
+Package xcolor Warning: Incompatible color definition on input line 9.
+
+
+Package xcolor Warning: Incompatible color definition on input line 9.
+
+
+Package xcolor Warning: Incompatible color definition on input line 9.
+
+
+Package xcolor Warning: Incompatible color definition on input line 9.
+
+
+Package xcolor Warning: Incompatible color definition on input line 10.
+
+
+Package xcolor Warning: Incompatible color definition on input line 10.
+
+
+Package xcolor Warning: Incompatible color definition on input line 10.
+
+
+Package xcolor Warning: Incompatible color definition on input line 10.
+
+
+Package xcolor Warning: Incompatible color definition on input line 10.
+
+
+Package xcolor Warning: Incompatible color definition on input line 10.
+
+
+Package xcolor Warning: Incompatible color definition on input line 10.
+
+
+Package xcolor Warning: Incompatible color definition on input line 10.
+
+
+Package xcolor Warning: Incompatible color definition on input line 10.
+
+
+Package xcolor Warning: Incompatible color definition on input line 10.
+
+
+Package xcolor Warning: Incompatible color definition on input line 10.
+
+
+Package xcolor Warning: Incompatible color definition on input line 10.
+
+
+Package xcolor Warning: Incompatible color definition on input line 10.
+
+
+Package xcolor Warning: Incompatible color definition on input line 10.
+
+
+Package xcolor Warning: Incompatible color definition on input line 10.
+
+
+Package xcolor Warning: Incompatible color definition on input line 10.
+
+
+Package xcolor Warning: Incompatible color definition on input line 10.
+
+
+Package xcolor Warning: Incompatible color definition on input line 10.
+
+
+Package xcolor Warning: Incompatible color definition on input line 10.
+
+
+Package xcolor Warning: Incompatible color definition on input line 10.
+
+
+Package xcolor Warning: Incompatible color definition on input line 10.
+
+)) (sections/Tupel.tex (code/Tupel.py) [1{C:/Users/benja/AppData/Local/MiKTeX/p
+dftex/config/pdftex.map}
 
 
 
 \providecommand \oddpage@label [2]{}
 
 
- <./pics/Variablen.PNG (PNG copy)>]
+ <./pics/Variablen.PNG (PNG copy)>]) [2]
 
 LaTeX3 Info: Redefining command \BeforeClosingMainAux with sig. 'm' on line
-(LaTeX3)     18.
+(LaTeX3)     19.
 
 
 LaTeX3 Info: Redefining command \BeforeClosingMainAux with sig. 'm' on line
-(LaTeX3)     18.
+(LaTeX3)     19.
 
  (Python_Sheet.aux)
 Package rerunfilecheck Info: File `Python_Sheet.out' has not changed.
@@ -1223,25 +1715,26 @@ Package rerunfilecheck Info: File `Python_Sheet.out' has not changed.
  )
 (\end occurred when \ifnum on line 11 was incomplete) 
 Here is how much of TeX's memory you used:
- 19026 strings out of 479323
- 345503 string characters out of 2854694
- 1072593 words of memory out of 3000000
- 36180 multiletter control sequences out of 15000+200000
+ 19110 strings out of 479325
+ 346308 string characters out of 2856830
+ 1239676 words of memory out of 3000000
+ 36239 multiletter control sequences out of 15000+200000
  405446 words of font info for 34 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 111i,19n,116p,10609b,1326s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 111i,20n,116p,10609b,1359s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/benja/AppData/Lo
-cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/ben
-ja/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb>
-<C:/Users/benja/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmmi7.pfb><C:/Users/benja/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
-c/amsfonts/cm/cmr10.pfb><C:/Users/benja/AppData/Local/Programs/MiKTeX 2.9/fonts
-/type1/public/amsfonts/cm/cmsl10.pfb><C:/Users/benja/AppData/Local/Programs/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/benja/AppData/Loc
-al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Python_Sheet.pdf (1 page, 453636 bytes).
+cal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/benja/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/User
+s/benja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb>
+<C:/Users/benja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+r10.pfb><C:/Users/benja/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmsl10.pfb><C:/Users/benja/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmssbx10.pfb><C:/Users/benja/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/benja/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on Python_Sheet.pdf (2 pages, 471614 bytes).
 PDF statistics:
- 65 PDF objects out of 1000 (max. 8388607)
- 19 named destinations out of 1000 (max. 500000)
- 14 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 83 PDF objects out of 1000 (max. 8388607)
+ 32 named destinations out of 1000 (max. 500000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

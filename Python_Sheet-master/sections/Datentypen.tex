@@ -1,5 +1,7 @@
 \vspace{-0.5cm}
 \section*{Generell}
+Die numerischen Datentypen sind gleichermaßen zu behandeln wie in den bekannten Programmiersprachen.
+
 	\begin{minipage}[t]{12.5cm}
 		\subsection*{Datentypen}
 			\rowcolors{1}{blue!10}{white}
@@ -39,8 +41,31 @@
 			\subsection*{Variablen}
 				\includegraphics[height=4.5cm, align=t]{pics/Variablen.PNG}
 		\end{minipage}
-	\subsection*{Numerische Datentypen}
-	Die numerischen Datentypen sind gleichermaßen zu behandeln wie in den bekannten Programmiersprachen.
-	\subsection*{Sequenzielle Datentypen}
-	\subsection{Strings}
-	\lstinputlisting{code/Strings.py}
+	\subsection*{Casting}
+	\hspace{2cm}
+	\rowcolors{1}{blue!10}{white}
+	\begin{tabular}{|l l l | l l l|}
+		\hline \bfseries{Datentyp} & \bfseries{Klasse} & \bfseries{Direkt} & \bfseries{Datentyp} & \bfseries{Klasse} & \bfseries{Direkt}
+		\\\hline Ganzzahl & int() & 3 & Gleitkommazahl & float() & 3.1415
+		\\ Boolescher Wert & bool() & True,False & Komplexe Zahl & complex() & 2 + 4j
+		\\ String & str() & "HSR",'OST' & Liste & list() & [1,2,3]
+		\\  Menge & set() & {1,2,3} & Tupel & tuple() & (1,2,3)
+		\\ Unver. Menge & frozenset() & frozenset({1,2,3}) & Dictionary & dict() & {}, {"Key": 1}
+		\\\hline
+	\end{tabular}
+	\subsection*{Eingabe und Ausgabe}
+		\begin{minipage}[h]{7cm}
+			\lstinputlisting{code/Streams.py}
+		\end{minipage}
+		\begin{minipage}[h]{8cm}
+		\rowcolors{1}{blue!10}{white}
+			\begin{tabular}{|l l l|}
+				\hline \bfseries{Parameter} & \bfseries{Beschreibung} & \bfseries{Default}
+				\\\hline object(s) & Alle Objekte werden in String konvertiert & 
+				\\ sep='seperator' & Separierung der Objekte & ' '
+				\\ end='end' & Letztes Zeichen des print-Befehl & '\textbackslash n'
+				\\ file & Objekt mit einer Write-Methode & sys.stdout
+				\\ flush & Boolscher Wert für die Output-Überprüfung & False
+				\\\hline
+			\end{tabular}
+		\end{minipage}
