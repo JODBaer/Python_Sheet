@@ -1,0 +1,10 @@
+mylist = [1, 2]
+mylist.append(33)
+mylist.extend([11, 22])
+print(f'#1 mylist = {mylist}')
+mylist.pop()
+mylist.pop(2)
+mylist.remove(11)
+print(f'#2 mylist = {mylist}')
+mylist.clear()
+print(f'#3 mylist = {mylist}')

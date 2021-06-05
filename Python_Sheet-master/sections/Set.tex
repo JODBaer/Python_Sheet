@@ -1,0 +1,15 @@
+\section*{Set}
+\hspace{1cm}
+\rowcolors{1}{blue!10}{white}
+\begin{tabular}{|l l l|}
+	\hline set.add(elem) & set.intersection(*others) $\to$ set & set.remove(elem)
+	\\ set.clear() & set.intersection\_update(*others) & set.symmetric\_difference(other) $\to$ set
+	\\ set.copy() $\to$ set & set.isdisjoint(other) $\to$ bool & set.symmetric\_difference\_update(other)
+	\\ set.difference(*others) $\to$ set & set.issubset(other) $\to$ bool & set.union(*others) $\to$ set
+	\\ set.difference\_update(*others) & set.issuperset(other) $\to$ bool & set.update(*others)
+	\\ set.discard(elem) & set.pop() $\to$ object &
+	\\\hline
+\end{tabular}
+\vspace{0.1cm}\\
+Ein set kann ebenfalls wie eine Liste behandelt werden, wobei die Werte nur einmalig vorkommen können und sie nicht veränderbar sind. Weitere Werte können hinzugefügt oder entfernt werden.
+\lstinputlisting{code/Set/Set.py}
