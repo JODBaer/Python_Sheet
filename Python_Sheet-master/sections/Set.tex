@@ -1,4 +1,5 @@
 \section*{Set}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \hspace{1cm}
 \rowcolors{1}{blue!10}{white}
 \begin{tabular}{|l l l|}
@@ -10,6 +11,34 @@
 	\\ set.discard(elem) & set.pop() $\to$ object &
 	\\\hline
 \end{tabular}
-\vspace{0.1cm}\\
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\vspace{0.1cm}
+\\
 Ein set kann ebenfalls wie eine Liste behandelt werden, wobei die Werte nur einmalig vorkommen können und sie nicht veränderbar sind. Weitere Werte können hinzugefügt oder entfernt werden.
-\lstinputlisting{code/Set/Set.py}
+Sets sind ungeordnet, heisst, \\\textcolor{red}{die Reihenfolge der Elemente kann nicht vorhergesagt werden.}
+\vspace{0.5cm}
+\\
+\vspace{0.1cm}
+\textbf{Erzeugen}\\
+\begin{minipage}[h]{10cm}
+	\lstinputlisting{code/Set/Set_create.py}
+\end{minipage}
+\begin{minipage}[h]{8cm}
+	\textcolor{red}{\textbf{Out:}}
+	\\myset = {'I', 'cheese', 'love', 'swiss'}
+	\\aset = {'six', 'two', 'one'}
+\end{minipage}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\\
+\vspace{0.1cm}
+\textbf{Basics}\\
+\begin{minipage}[h]{10cm}
+	\lstinputlisting{code/Set/Set_basic.py}
+\end{minipage}
+\begin{minipage}[h]{8cm}
+	\textcolor{red}{\textbf{Out:}}
+	\\myset = {12, 77, 'elem'}
+	\\myset = set()
+	\\aset = {'elem', 12, 77}
+\end{minipage}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

@@ -1,16 +1,63 @@
 \section*{Dictionary}
-	\begin{minipage}[h]{9cm}
-		\lstinputlisting{Code/Dictionary.py}
-	\end{minipage}
-	\begin{minipage}[h]{10cm}
-		\rowcolors{1}{blue!10}{white}
-		\begin{tabular}{|l l|}
-			\hline \bfseries{Methode} & \bfseries{Beschreibung}
-			\\\hline clear() & Alle Elemente entfernen
-			\\ copy() & Kopiert das Dictionary
-			\\ keys() & Gibt eine Liste mit den Schlüsselwerten
-			\\ items() & Gibt eine Liste mit tuple für alle keys
-			\\ values() & Gibt eine Liste mit allen Werte zurück
-			\\\hline
-		\end{tabular}
-	\end{minipage}
+\hspace{2cm}
+\rowcolors{1}{blue!10}{white}
+\begin{tabular}{|l l|}
+	\hline dict.clear() & dict.pop(key[, default]) $\to$ object
+	\\ dict.copy() $\to$ dict & dict.popitem() $\to$ tuple
+	\\ dict.fromkeys(iterable[, value]) $\to$ object & dict.setdefault(key[, default]) $\to$ object
+	\\ dict.get(key[, default]) $\to$ object & dict.update([other])
+	\\ dict.items() $\to$ dict\_items & dict.values() $\to$ dict\_values
+	\\ dict.kyes() $\to$ dict\_keys &
+	\\\hline
+\end{tabular}
+\\
+Ein Dictionary ist ein geordneter Datentyp um Wertepaare zu speichern. Dieser Datentyp erlaubt keine Duplikate!
+\vspace{0.5cm}
+\\\vspace{0.1cm}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\textbf{Basics}
+\\
+\begin{minipage}[h]{10cm}
+	\lstinputlisting{code/dict/Basics.py}
+\end{minipage}
+\begin{minipage}[h]{8cm}
+	\textcolor{red}{\textbf{Out:}} \\
+	\{'brand': 'honda', 'color': 'red', 'power': (31, 'hp'), 'mileage[km]': 4399, 'category': 'naked'\}
+	\\\{'brand': 'honda', 'color': 'red', 'power': (48, 'hp'), 'mileage[km]': 4399, 'category': 'naked'\}
+\end{minipage}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\hspace{-0.5cm}
+\textbf{Entfernen/Löschen}
+\\
+\begin{minipage}[h]{10cm}
+	\lstinputlisting{code/dict/Delete.py}
+\end{minipage}
+\begin{minipage}[h]{8cm}
+	\textcolor{red}{\textbf{Out:}}
+	\\red
+	\\raw
+	\\('power', (31, 'hp'))
+	\\\{\}
+\end{minipage}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\hspace{-0.5cm}
+\textbf{Abfragen/Hinzufügen}
+\\
+\begin{minipage}[h]{10cm}
+	\lstinputlisting{code/dict/Handling.py}
+\end{minipage}
+\begin{minipage}[h]{8cm}
+	\textcolor{red}{\textbf{Out:}}
+	\\dict\_items([('brand', 'honda'), ('color', 'red'), ('power', (31, 'hp'))])
+	\\dict\_keys(['brand', 'color', 'power'])
+	\\dict\_values(['honda', 'red', (31, 'hp')])
+	\\red
+	\\0
+	\\red
+	\\\{'brand': 'honda', 'color': 'red', 'power': (31, 'hp'), 'year': 0, 'weight': 0\}
+\end{minipage}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
