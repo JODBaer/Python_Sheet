@@ -1,0 +1,79 @@
+\section*{Matrix}
+\hspace{1cm}
+\rowcolors{1}{blue!10}{white}
+\begin{tabular}{|l|}
+	\hline 
+	 np.array(object, dtype=None, *, copy=True, order="K", subok=False, ndmin=0) ndarray
+	 \\ np.arange([start,] stop[, step,]dtype=None) ndarray
+	 \\ np.asarray(a[, dtype, order]) ndarray
+	 \\ np.copy(a, order="K", subok=False) ndarray
+	 \\ np.empty(shape, dtype=float, order="C") int ndarray
+	 \\ np.empty like(prototype, dtype=None, order="K", subok=True, shape=None) ndarray
+	 \\ np.eye(N, M=None, k=0, dtype=<class "float">, order="C") ndarray
+	 \\ np.full(shape, fill value, dtype=None, order="C") ndarray
+	 \\ np.full like(a, fill value, dtype=None, order="K", subok=True, shape=None) ndarray
+	 \\ np.fromfile(file, dtype=float, count=-1, sep=, offset=0) ndarray
+	 \\ np.fromstring(string, dtype=float, count=-1, sep=) ndarray
+	 \\ np.identity(n, dtype=None) ndarray
+	 \\ np.linspace(start, stop, num=50, endpoint=True, retstep=False, dtype=None, axis=0) ndarray
+	 \\ np.loadtxt(fname, dtype= $\langle$ class "float" $\rangle$ , comments="\#", delimiter=None, converters=None, skiprows=0,  usecols=None, unpack=False, ndmin=0, encoding="bytes", max rows=None) ndarray
+	 \\ np.logspace(start, stop, num=50, endpoint=True, base=10.0, dtype=None, axis=0) ndarray
+	 \\ np.meshgrid(*xi, copy=True, sparse=False, indexing="xy") ndarray
+	 \\ np.ones(shape, dtype=None, order="C") ndarray
+	 \\ np.ones like(a, dtype=None, order="K", subok=True, shape=None) ndarray
+	 \\ np.random.randn(d0, d1, ...,dn) ndarray
+	 \\ np.random.randint(low, high=None, size=None, dtype=int) ndarray
+	 \\ np.zeros(shape, dtype=float, order="C") ndarray
+	 \\ np.zeros like(a, dtype=None, order="K", subok=True, shape=None) ndarray
+	\\\hline
+\end{tabular}
+\\
+\vspace{0.5cm}
+\\\vspace{0.1cm}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\textbf{Basics}
+\\
+\begin{minipage}[h]{10cm}
+	\lstinputlisting{code/dict/Basics.py}
+\end{minipage}
+\begin{minipage}[h]{8cm}
+	\textcolor{red}{\textbf{Out:}} \\
+	\{'brand': 'honda', 'color': 'red', 'power': (31, 'hp'), 'mileage[km]': 4399, 'category': 'naked'\}
+	\\\{'brand': 'honda', 'color': 'red', 'power': (48, 'hp'), 'mileage[km]': 4399, 'category': 'naked'\}
+\end{minipage}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\hspace{-0.5cm}
+\textbf{Entfernen/Löschen}
+\\
+\begin{minipage}[h]{10cm}
+	\lstinputlisting{code/dict/Delete.py}
+\end{minipage}
+\begin{minipage}[h]{8cm}
+	\textcolor{red}{\textbf{Out:}}
+	\\red
+	\\raw
+	\\('power', (31, 'hp'))
+	\\\{\}
+\end{minipage}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\hspace{-0.5cm}
+\textbf{Abfragen/Hinzufügen}
+\\
+\begin{minipage}[h]{10cm}
+	\lstinputlisting{code/dict/Handling.py}
+\end{minipage}
+\begin{minipage}[h]{8cm}
+	\textcolor{red}{\textbf{Out:}}
+	\\dict\_items([('brand', 'honda'), ('color', 'red'), ('power', (31, 'hp'))])
+	\\dict\_keys(['brand', 'color', 'power'])
+	\\dict\_values(['honda', 'red', (31, 'hp')])
+	\\red
+	\\0
+	\\red
+	\\\{'brand': 'honda', 'color': 'red', 'power': (31, 'hp'), 'year': 0, 'weight': 0\}
+\end{minipage}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
