@@ -2,13 +2,13 @@
 \hspace{1cm}
 \rowcolors{1}{blue!10}{white}
 \begin{tabular}{|l|}
-	\hline 
+ 	\hline
 	 np.array(object, dtype=None, *, copy=True, order="K", subok=False, ndmin=0) ndarray
 	 \\ np.arange([start,] stop[, step,]dtype=None) ndarray
-	 \\ np.asarray(a[, dtype, order]) ndarray
+	 \\ np.asarray(a, dtype=None, order=None, *, like=None) ndarray
 	 \\ np.copy(a, order="K", subok=False) ndarray
 	 \\ np.empty(shape, dtype=float, order="C") int ndarray
-	 \\ np.empty like(prototype, dtype=None, order="K", subok=True, shape=None) ndarray
+	 \\ np.empty\_like(prototype, dtype=None, order="K", subok=True, shape=None) ndarray
 	 \\ np.eye(N, M=None, k=0, dtype=<class "float">, order="C") ndarray
 	 \\ np.full(shape, fill value, dtype=None, order="C") ndarray
 	 \\ np.full like(a, fill value, dtype=None, order="K", subok=True, shape=None) ndarray
@@ -16,7 +16,8 @@
 	 \\ np.fromstring(string, dtype=float, count=-1, sep=) ndarray
 	 \\ np.identity(n, dtype=None) ndarray
 	 \\ np.linspace(start, stop, num=50, endpoint=True, retstep=False, dtype=None, axis=0) ndarray
-	 \\ np.loadtxt(fname, dtype= $\langle$ class "float" $\rangle$ , comments="\#", delimiter=None, converters=None, skiprows=0,  usecols=None, unpack=False, ndmin=0, encoding="bytes", max rows=None) ndarray
+	 \\ np.loadtxt(fname, dtype= $\langle$ class "float" $\rangle$ , comments="\#", delimiter=None, converters=None,
+	 \\ skiprows=0,  usecols=None, unpack=False, ndmin=0, encoding="bytes", max rows=None) ndarray
 	 \\ np.logspace(start, stop, num=50, endpoint=True, base=10.0, dtype=None, axis=0) ndarray
 	 \\ np.meshgrid(*xi, copy=True, sparse=False, indexing="xy") ndarray
 	 \\ np.ones(shape, dtype=None, order="C") ndarray
@@ -33,13 +34,24 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \textbf{Basics}
 \\
+order{‘K’, ‘A’, ‘C’, ‘F’}, optional\\
+K = lässt das Array wie es ist, A lässt es in F denn rest aber geht in C\\
+F bedeutet zuerst Spalten lesen, oder vom äussern zum innern.\\
+C bedeutet zuerst zeilen lessen , vom innersten zum äussern.\\
+ndmin bestimmt mindest anzahl an Dimensionen.\\
+Hallo bin ich noch da?
+\\
 \begin{minipage}[h]{10cm}
-	\lstinputlisting{code/dict/Basics.py}
+	\lstinputlisting{code/Matrix/matrixgen.py}
 \end{minipage}
 \begin{minipage}[h]{8cm}
 	\textcolor{red}{\textbf{Out:}} \\
-	\{'brand': 'honda', 'color': 'red', 'power': (31, 'hp'), 'mileage[km]': 4399, 'category': 'naked'\}
-	\\\{'brand': 'honda', 'color': 'red', 'power': (48, 'hp'), 'mileage[km]': 4399, 'category': 'naked'\}
+	arr1= $[[1\, 2\, 3][4\, 5\, 6]]$
+	\\ arr2 $[1.\,  1.3\, 1.6\, 1.9]$
+	\\ arr3 $[[1.\, 2.\, 3][4.\, 5.\, 6.]]$
+	\\ arr4 False (die Objekte sind nicht gleich)
+	\\ arr5 = Ein Array mit leeren zufälligen Floatzahlen meistsehr klein.
+	\\
 \end{minipage}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \newpage
