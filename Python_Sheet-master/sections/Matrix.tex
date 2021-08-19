@@ -39,7 +39,6 @@ K = lässt das Array wie es ist, A lässt es in F denn rest aber geht in C\\
 F bedeutet zuerst Spalten lesen, oder vom äussern zum innern.\\
 C bedeutet zuerst zeilen lessen , vom innersten zum äussern.\\
 ndmin bestimmt mindest anzahl an Dimensionen.\\
-Hallo bin ich noch da?
 \\
 \begin{minipage}[h]{10cm}
 	\lstinputlisting{code/Matrix/matrixgen.py}
@@ -50,42 +49,42 @@ Hallo bin ich noch da?
 	\\ arr2 $[1.\,  1.3\, 1.6\, 1.9]$
 	\\ arr3 $[[1.\, 2.\, 3][4.\, 5.\, 6.]]$
 	\\ arr4 False (die Objekte sind nicht gleich)
-	\\ arr5 = Ein Array mit leeren zufälligen Floatzahlen meistsehr klein.
-	\\
+	\\ arr5 = Ein Array mit leeren zufälligen Floatzahlen meist sehr klein.
+	\\ arr6 = $[1\, 2\, 3 \,\dots\, 49\, 50]$
+	\\ 
 \end{minipage}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \newpage
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\hspace{-0.5cm}
-\textbf{Entfernen/Löschen}
+\section*{Array Manipulation}
+\hspace{1cm}
+\rowcolors{1}{blue!10}{white}
+\begin{tabular}{|l l|}
+	\hline
+	  numpy.append(arr, values, axis=None) ndarray & np.ravel(a, order="C") ndarray array like
+	\\np.array split(ary, indices or sections, axis=0) list &np.repeat(a, repeats, axis=None) ndarray
+	\\np.atleast 1d(*arys) ndarray &np.reshape(a, newshape, order="C") ndarray
+	\\np.atleast 2d(*arys) ndarray &np.resize(a, newshape) ndarray
+	\\np.atleast 3d(*arys) ndarray &np.roll(a, shift, axis=None) ndarray
+	\\np.c [...] ndarray &np.row stack(tup) ndarray
+	\\np.column stack(tup) ndarray &np.split(ary, indices or sections, axis=0) list
+	\\np.concatenate((a1, a2, ...), axis=0, out=None) ndarray &np.stack(arrays, axis=0, out=None) ndarray
+	\\np.dstack(tup) ndarray &np.tile(A, reps) ndarray
+	\\np.expand dims(a, axis) ndarray &np.transpose(a, axes=None) ndarray
+	\\np.ndarray.flatten([order]) ndarray &ndarray.T ndarray
+	\\np.hstack(tup) ndarray &np.unravel index(indices, shape, order="C") tup
+	\\np.r [...] ndarray &np.vstack(tup) ndarray
+	\\\hline
+\end{tabular}
 \\
+\vspace{0.5cm}
+\\\vspace{0.1cm}
 \begin{minipage}[h]{10cm}
-	\lstinputlisting{code/dict/Delete.py}
+	\lstinputlisting{code/Matrix/arraymanipulation.py}
 \end{minipage}
 \begin{minipage}[h]{8cm}
 	\textcolor{red}{\textbf{Out:}}
-	\\red
-	\\raw
-	\\('power', (31, 'hp'))
-	\\\{\}
+
 \end{minipage}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\hspace{-0.5cm}
-\textbf{Abfragen/Hinzufügen}
-\\
-\begin{minipage}[h]{10cm}
-	\lstinputlisting{code/dict/Handling.py}
-\end{minipage}
-\begin{minipage}[h]{8cm}
-	\textcolor{red}{\textbf{Out:}}
-	\\dict\_items([('brand', 'honda'), ('color', 'red'), ('power', (31, 'hp'))])
-	\\dict\_keys(['brand', 'color', 'power'])
-	\\dict\_values(['honda', 'red', (31, 'hp')])
-	\\red
-	\\0
-	\\red
-	\\\{'brand': 'honda', 'color': 'red', 'power': (31, 'hp'), 'year': 0, 'weight': 0\}
-\end{minipage}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
