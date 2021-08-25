@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.3.18)  5 AUG 2021 17:50
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.3) (preloaded format=pdflatex 2021.3.18)  25 AUG 2021 08:44
 entering extended mode
 **./Python_Sheet.tex
 (Python_Sheet.tex
@@ -2427,7 +2427,49 @@ Package xcolor Warning: Incompatible color definition on input line 2.
 
 Package xcolor Warning: Incompatible color definition on input line 2.
 
-) [4]) (sections/Matplotlib.tex [5] (code/Matplotlib/SimpleExample.py
+) [4]) (sections/Matrix.tex (code/Matrix/matrixgen.py
+
+Package xcolor Warning: Incompatible color definition on input line 1.
+
+
+Package xcolor Warning: Incompatible color definition on input line 4.
+
+
+Package xcolor Warning: Incompatible color definition on input line 6.
+
+
+Package xcolor Warning: Incompatible color definition on input line 7.
+
+
+Package xcolor Warning: Incompatible color definition on input line 8.
+
+
+Package xcolor Warning: Incompatible color definition on input line 10.
+
+
+Package xcolor Warning: Incompatible color definition on input line 10.
+
+
+Package xcolor Warning: Incompatible color definition on input line 12.
+
+
+Package xcolor Warning: Incompatible color definition on input line 14.
+
+)
+Underfull \hbox (badness 10000) in paragraph at lines 47--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--57
+
+ []
+
+[5] (code/Matrix/arraymanipulation.py
+
+Package xcolor Warning: Incompatible color definition on input line 1.
+
+)) (sections/Matplotlib.tex [6] [7] (code/Matplotlib/SimpleExample.py
 
 Package xcolor Warning: Incompatible color definition on input line 1.
 
@@ -2657,11 +2699,11 @@ Package xcolor Warning: Incompatible color definition on input line 23.
 Package xcolor Warning: Incompatible color definition on input line 23.
 
 )
-<pics/Matplotlib/SimpleExample.png, id=175, 462.528pt x 346.896pt>
+<pics/Matplotlib/SimpleExample.png, id=205, 462.528pt x 346.896pt>
 File: pics/Matplotlib/SimpleExample.png Graphic file (type png)
 <use pics/Matplotlib/SimpleExample.png>
 Package pdftex.def Info: pics/Matplotlib/SimpleExample.png  used on input line 
-76.
+77.
 (pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
  (code/Matplotlib/OOP_Beispiel.py
 
@@ -3034,13 +3076,13 @@ Package xcolor Warning: Incompatible color definition on input line 29.
 Package xcolor Warning: Incompatible color definition on input line 29.
 
 )
-<pics/Matplotlib/OOP_Beispiel.png, id=177, 462.528pt x 346.896pt>
+<pics/Matplotlib/OOP_Beispiel.png, id=207, 462.528pt x 346.896pt>
 File: pics/Matplotlib/OOP_Beispiel.png Graphic file (type png)
 <use pics/Matplotlib/OOP_Beispiel.png>
 Package pdftex.def Info: pics/Matplotlib/OOP_Beispiel.png  used on input line 8
-7.
+8.
 (pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
- [6 <./pics/Matplotlib/SimpleExample.png> <./pics/Matplotlib/OOP_Beispiel.png>]
+ [8 <./pics/Matplotlib/SimpleExample.png> <./pics/Matplotlib/OOP_Beispiel.png>]
  (code/Matplotlib/Subplots.py
 
 Package xcolor Warning: Incompatible color definition on input line 1.
@@ -3364,18 +3406,18 @@ Package xcolor Warning: Incompatible color definition on input line 32.
 Package xcolor Warning: Incompatible color definition on input line 33.
 
 )
-<pics/Matplotlib/Subplots.png, id=239, 462.528pt x 346.896pt>
+<pics/Matplotlib/Subplots.png, id=269, 462.528pt x 346.896pt>
 File: pics/Matplotlib/Subplots.png Graphic file (type png)
 <use pics/Matplotlib/Subplots.png>
-Package pdftex.def Info: pics/Matplotlib/Subplots.png  used on input line 98.
+Package pdftex.def Info: pics/Matplotlib/Subplots.png  used on input line 99.
 (pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
-<pics/Matplotlib/MultSubplots.png, id=240, 462.528pt x 346.896pt>
+<pics/Matplotlib/MultSubplots.png, id=270, 462.528pt x 346.896pt>
 File: pics/Matplotlib/MultSubplots.png Graphic file (type png)
 <use pics/Matplotlib/MultSubplots.png>
-Package pdftex.def Info: pics/Matplotlib/MultSubplots.png  used on input line 9
-9.
+Package pdftex.def Info: pics/Matplotlib/MultSubplots.png  used on input line 1
+00.
 (pdftex.def)             Requested size: 227.62204pt x 170.71628pt.
- [7 <./pics/Matplotlib/Subplots.png> <./pics/Matplotlib/MultSubplots.png>]
+ [9 <./pics/Matplotlib/Subplots.png> <./pics/Matplotlib/MultSubplots.png>]
 (code/Matplotlib/Log.py
 
 Package xcolor Warning: Incompatible color definition on input line 1.
@@ -3564,18 +3606,18 @@ Package xcolor Warning: Incompatible color definition on input line 22.
 Package xcolor Warning: Incompatible color definition on input line 22.
 
 )
-<pics/Matplotlib/Loglog.png, id=286, 462.528pt x 346.896pt>
+<pics/Matplotlib/Loglog.png, id=315, 462.528pt x 346.896pt>
 File: pics/Matplotlib/Loglog.png Graphic file (type png)
 <use pics/Matplotlib/Loglog.png>
-Package pdftex.def Info: pics/Matplotlib/Loglog.png  used on input line 110.
+Package pdftex.def Info: pics/Matplotlib/Loglog.png  used on input line 111.
 (pdftex.def)             Requested size: 199.16928pt x 149.37938pt.
-<pics/Matplotlib/Semilogx.png, id=287, 462.528pt x 346.896pt>
+<pics/Matplotlib/Semilogx.png, id=316, 462.528pt x 346.896pt>
 File: pics/Matplotlib/Semilogx.png Graphic file (type png)
 <use pics/Matplotlib/Semilogx.png>
-Package pdftex.def Info: pics/Matplotlib/Semilogx.png  used on input line 111.
+Package pdftex.def Info: pics/Matplotlib/Semilogx.png  used on input line 112.
 (pdftex.def)             Requested size: 199.16928pt x 149.37938pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 110--112
+Underfull \hbox (badness 10000) in paragraph at lines 111--113
 [][]
  []
 
@@ -3608,13 +3650,13 @@ Package xcolor Warning: Incompatible color definition on input line 9.
 Package xcolor Warning: Incompatible color definition on input line 9.
 
 )
-<pics/Matplotlib/Step.png, id=288, 462.528pt x 346.896pt>
+<pics/Matplotlib/Step.png, id=317, 462.528pt x 346.896pt>
 File: pics/Matplotlib/Step.png Graphic file (type png)
 <use pics/Matplotlib/Step.png>
-Package pdftex.def Info: pics/Matplotlib/Step.png  used on input line 122.
+Package pdftex.def Info: pics/Matplotlib/Step.png  used on input line 123.
 (pdftex.def)             Requested size: 199.16928pt x 149.37938pt.
- [8 <./pics/Matplotlib/Loglog.png> <./pics/Matplotlib/Semilogx.png> <./pics/Mat
-plotlib/Step.png>] (code/Matplotlib/Contour.py
+ [10 <./pics/Matplotlib/Loglog.png> <./pics/Matplotlib/Semilogx.png> <./pics/Ma
+tplotlib/Step.png>] (code/Matplotlib/Contour.py
 
 Package xcolor Warning: Incompatible color definition on input line 1.
 
@@ -3667,18 +3709,18 @@ Package xcolor Warning: Incompatible color definition on input line 18.
 Package xcolor Warning: Incompatible color definition on input line 18.
 
 )
-<pics/Matplotlib/Contour.png, id=329, 462.528pt x 346.896pt>
+<pics/Matplotlib/Contour.png, id=358, 462.528pt x 346.896pt>
 File: pics/Matplotlib/Contour.png Graphic file (type png)
 <use pics/Matplotlib/Contour.png>
-Package pdftex.def Info: pics/Matplotlib/Contour.png  used on input line 133.
+Package pdftex.def Info: pics/Matplotlib/Contour.png  used on input line 134.
 (pdftex.def)             Requested size: 199.16928pt x 149.37938pt.
-<pics/Matplotlib/Contourf.png, id=330, 462.528pt x 346.896pt>
+<pics/Matplotlib/Contourf.png, id=359, 462.528pt x 346.896pt>
 File: pics/Matplotlib/Contourf.png Graphic file (type png)
 <use pics/Matplotlib/Contourf.png>
-Package pdftex.def Info: pics/Matplotlib/Contourf.png  used on input line 134.
+Package pdftex.def Info: pics/Matplotlib/Contourf.png  used on input line 135.
 (pdftex.def)             Requested size: 199.16928pt x 149.37938pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 133--135
+Underfull \hbox (badness 10000) in paragraph at lines 134--136
 [][]
  []
 
@@ -3795,13 +3837,13 @@ Package xcolor Warning: Incompatible color definition on input line 21.
 Package xcolor Warning: Incompatible color definition on input line 21.
 
 )
-<pics/Matplotlib/Hist.png, id=331, 492.8814pt x 630.9171pt>
+<pics/Matplotlib/Hist.png, id=360, 492.8814pt x 630.9171pt>
 File: pics/Matplotlib/Hist.png Graphic file (type png)
 <use pics/Matplotlib/Hist.png>
-Package pdftex.def Info: pics/Matplotlib/Hist.png  used on input line 145.
+Package pdftex.def Info: pics/Matplotlib/Hist.png  used on input line 146.
 (pdftex.def)             Requested size: 227.62204pt x 291.371pt.
- [9 <./pics/Matplotlib/Contour.png> <./pics/Matplotlib/Contourf.png> <./pics/Ma
-tplotlib/Hist.png>] (code/Matplotlib/Scatter.py
+ [11 <./pics/Matplotlib/Contour.png> <./pics/Matplotlib/Contourf.png> <./pics/M
+atplotlib/Hist.png>] (code/Matplotlib/Scatter.py
 
 Package xcolor Warning: Incompatible color definition on input line 1.
 
@@ -4040,24 +4082,24 @@ Package xcolor Warning: Incompatible color definition on input line 29.
 Package xcolor Warning: Incompatible color definition on input line 29.
 
 )
-<pics/Matplotlib/Scatter.png, id=380, 571.6557pt x 531.9072pt>
+<pics/Matplotlib/Scatter.png, id=409, 571.6557pt x 531.9072pt>
 File: pics/Matplotlib/Scatter.png Graphic file (type png)
 <use pics/Matplotlib/Scatter.png>
-Package pdftex.def Info: pics/Matplotlib/Scatter.png  used on input line 156.
+Package pdftex.def Info: pics/Matplotlib/Scatter.png  used on input line 157.
 (pdftex.def)             Requested size: 284.52756pt x 264.75172pt.
 
-Overfull \hbox (56.90552pt too wide) in paragraph at lines 156--157
+Overfull \hbox (56.90552pt too wide) in paragraph at lines 157--158
 [][] 
  []
 
-) [10 <./pics/Matplotlib/Scatter.png>]
+) [12 <./pics/Matplotlib/Scatter.png>]
 
 LaTeX3 Info: Redefining command \BeforeClosingMainAux with sig. 'm' on line
-(LaTeX3)     24.
+(LaTeX3)     25.
 
 
 LaTeX3 Info: Redefining command \BeforeClosingMainAux with sig. 'm' on line
-(LaTeX3)     24.
+(LaTeX3)     25.
 
  (Python_Sheet.aux)
 Package rerunfilecheck Info: File `Python_Sheet.out' has not changed.
@@ -4065,10 +4107,10 @@ Package rerunfilecheck Info: File `Python_Sheet.out' has not changed.
  )
 (\end occurred when \ifnum on line 11 was incomplete) 
 Here is how much of TeX's memory you used:
- 20078 strings out of 479325
- 363190 string characters out of 2856830
- 1270314 words of memory out of 3000000
- 36792 multiletter control sequences out of 15000+200000
+ 20152 strings out of 479325
+ 364474 string characters out of 2856830
+ 1270343 words of memory out of 3000000
+ 36832 multiletter control sequences out of 15000+200000
  405949 words of font info for 36 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  111i,19n,116p,10609b,1363s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -4085,9 +4127,9 @@ ype1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/benja/AppData/Local/Programs/MiK
 TeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/benja/AppData/Local/Pro
 grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy5.pfb><C:/Users/benja/AppData/L
 ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on Python_Sheet.pdf (10 pages, 937243 bytes).
+Output written on Python_Sheet.pdf (12 pages, 947591 bytes).
 PDF statistics:
- 562 PDF objects out of 1000 (max. 8388607)
- 344 named destinations out of 1000 (max. 500000)
+ 596 PDF objects out of 1000 (max. 8388607)
+ 367 named destinations out of 1000 (max. 500000)
  76 words of extra memory for PDF output out of 10000 (max. 10000000)
 
