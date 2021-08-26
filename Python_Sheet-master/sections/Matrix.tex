@@ -1,3 +1,5 @@
+\graphicspath{ {./pics/Matrix/} }
+
 \section*{Matrix}
 \hspace{1cm}
 \rowcolors{1}{blue!10}{white}
@@ -87,5 +89,56 @@ ndmin bestimmt mindest anzahl an Dimensionen.\\
 	\textcolor{red}{\textbf{Out:}}
 
 \end{minipage}
+
+\begin{figure}[h]
+	\includegraphics[width=2cm]{Matrix_stack.pdf}
+\end{figure}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section*{Lineare Algebra}
+\hspace{1cm}
+\rowcolors{1}{blue!10}{white}
+\begin{tabular}{|l l|}
+	\hline
+	np.cross(a, b, axisa=-1, axisb=-1, axisc=-1, axis=None) ndarray
+	\\np.dot(a, b, out=None) ndarray
+	\\np.linalg.det(a) array like
+	\\np.linalg.eig(a) ndarray
+	\\np.inner(a, b) ndarray
+	\\np.linalg.inv(a) ndarray
+	\\np.matmul(x1, x2, **kwargs) ndarray
+	\\np.linalg.matrix rank(M, tol=None, hermitian=False) array like
+	\\np.linalg.norm(x, ord=None, axis=None, keepdims=False) float|ndarray
+	\\np.outer(a, b, out=None) ndarray
+	\\np.linalg.solve(a, b) ndarray
+	\\M @ v ndarray
+	\\np.trace(a, offset=0, axis1=0, axis2=1, dtype=None, out=None) ndarray
+	
+	\\\hline
+\end{tabular}
+\\
+Der @ Operator matmul und dot machen eigentlich das selbe, auf verschieden Arten.\\
+trace: die Spur der Matrix.
+
+\vspace{0.5cm}
+\begin{minipage}[h]{12cm}
+	
+	\lstinputlisting{code/Matrix/linalg.py}
+\end{minipage}
+\begin{minipage}[h]{8cm}
+	\textcolor{red}{\textbf{Out:}}
+	M4x2= [[0, 1],
+	[2, 3],
+	[4, 5],
+	[6, 7]]
+	\\
+	= [2,  8, 14, 20 ]
+	\\
+	
+	
+\end{minipage}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 
